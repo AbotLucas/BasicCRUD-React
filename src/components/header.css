@@ -1,0 +1,9 @@
+header {
+    width:100%!important;
+    display:flex!important;
+    flex-direction: row!important;
+    justify-content: center!important;
+    align-items: center!important;
+    background-color:#333;
+    color:#fafafa;
+}
