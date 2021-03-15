@@ -25,3 +25,18 @@ form input:nth-child(2) {
 li button:hover, form input:nth-child(2):hover {
     background-color: rgb(148, 39, 36);
 }
+
+.errorEnPantalla {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    background-color: rgba(27, 214, 111, 0.75);
+    border: 1px solid #333;
+    padding: 1rem;
+}
+
+.errorEnPantalla span {
+    background-color: /* #fbff11 */rgba(214, 180, 27, 0.9);
+}
